@@ -75,9 +75,9 @@
       }
     ],
     "@typescript-eslint/explicit-function-return-type": [
-      "error",
+      "off",
       {
-        "allowExpressions": true
+        "allowExpressions": false
       }
     ],
     "@typescript-eslint/camelcase": "off"

@@ -1,1 +1,13 @@
 // TODO
+.header {
+  max-width: 1120px;
+
+  display: flex;
+  align-items: center;
+  margin: 5rem auto 4rem;
+  color: #f8f8f8;
+
+  h1 {
+    margin-left: 1rem;
+  }
+}
